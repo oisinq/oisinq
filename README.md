@@ -12,7 +12,7 @@ I've a few random projects on here that might be interesting:
 * [Paper Planes](https://github.com/DarraghClarke/Paper-Planes) was a really fun project to make: it's a distributed messaging app (aka WhatsApp clone) that was really satisfying (and a lil painful) to build.
 
 Also here are my socials:
-* [@oisinq_ on Twitter](https://twitter.com/oisinq_)
+* [Twitter](https://twitter.com/oisinq_)
 * [LinkedIn](https://linkedin.com/in/oisinq)
 * that's all you're gettin', partner
 
