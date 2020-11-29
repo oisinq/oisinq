@@ -16,4 +16,5 @@ Also here are my socials:
 * [LinkedIn](https://linkedin.com/in/oisinq)
 * that's all you're gettin', partner
 
-Cool? Cool. 
+
+![](https://hit.yhype.halp.im/github/profile?user_id=5693967) Cool? Cool. 
