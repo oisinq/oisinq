@@ -17,4 +17,4 @@ Also here are my socials:
 * that's all you're gettin', partner
 
 
-![](https://hit.yhype.halp.im/github/profile?user_id=5693967) Cool? Cool. 
+![](https://hit.yhype.me/github/profile?user_id=5693967) Cool? Cool. 
