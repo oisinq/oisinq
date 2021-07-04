@@ -14,7 +14,7 @@ I've a few random projects on here that might be interesting:
 Also here are my socials:
 * [Twitter](https://twitter.com/oisinq_)
 * [LinkedIn](https://linkedin.com/in/oisinq)
-* that's all you're gettin', partner
+* [Polywork](https://www.polywork.com/oisinq)
 
 
 ![](https://hit.yhype.me/github/profile?user_id=5693967) Cool? Cool. 
