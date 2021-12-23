@@ -10,6 +10,7 @@ I've a few random projects on here that might be interesting:
 * [dBikes Planner](https://github.com/oisinq/dbikes-planner) is an Android app and Python API for generating smart cycling routes for Dublinbikes that takes into account bike availability at stations. You can grab the code, an .apk and my Final Year Project report (I got an A+!) in that repo.
 * [Amhrán](https://github.com/oisinq/amhran) is a music site I built in React that showcased a new Irish song every day (or at least until I wasn't able to keep up with updating a website daily).
 * [Paper Planes](https://github.com/DarraghClarke/Paper-Planes) was a really fun project to make: it's a distributed messaging app (aka WhatsApp clone) that was really satisfying (and a lil painful) to build.
+* [JavaScript is good, actually](https://github.com/oisinq/js-is-good) was a lightning talk I gave at [ShortStack Conference](https://shortstackcon.com/). I talked about how I think JavaScript gets a bad rap and how modern JS is a really nice language to use. I like public speaking, as long as I can come up with a topic I'm enthusiastic about... 😅
 
 Also here are my socials:
 * [Twitter](https://twitter.com/oisinq_)
